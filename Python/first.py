@@ -1,0 +1,5 @@
+print ("Hello World")
+print ("Hello")
+print ("Hello World world")
+print ("Hello hello World")
+print ("Hello World hello world")
